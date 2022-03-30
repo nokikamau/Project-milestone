@@ -21,7 +21,7 @@ int main()
 {
     while(1) {
         printf("COUNTY LIBRARY SYSTEM!\n");
-        printf("Welcome Mr. Titus!\n");
+        printf("Welcome Njoki kamau!\n");
         execute_action(menu());
         printf("Press any key to continue");
         getch();
